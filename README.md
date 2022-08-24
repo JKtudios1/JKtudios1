@@ -1,4 +1,4 @@
-- 👋 Hello, I'm @JKtudios1
+- 👋 Hello, I'm @JKStudios1
 - 👀 I'm interested in programming
 - 🌱 I'm currently learning python
 - 💞️ I am looking to collaborate on small projects
